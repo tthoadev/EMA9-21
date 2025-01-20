@@ -1,0 +1,19 @@
+{
+  "name": "ema-binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^4.4.49",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0",
+    "technicalindicators": "^3.1.0",
+    "xlsx": "^0.18.5"
+  }
+}
